@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1686451380 source:c:\users\eltonpc\desktop\projeto\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
+1686453801 source:c:\users\eltonpc\desktop\apagar\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
+1686539185 source:c:\users\eltonpc\desktop\mais atual projeto\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
